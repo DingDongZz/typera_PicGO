@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="第 1 页" id="fIxhdMdnYTaUpzPp3vKk">
-    <mxGraphModel dx="679" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,15 @@
         </mxCell>
         <mxCell id="ODvfvK-Vzm__knQPuGtE-80" value="1x1x C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="440" y="75.01" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ODvfvK-Vzm__knQPuGtE-81" value="F&lt;sub&gt;sq&lt;/sub&gt;(·)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="335" y="67" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ODvfvK-Vzm__knQPuGtE-82" value="F&lt;sub&gt;ex&lt;/sub&gt;(·,W)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="405" y="44" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ODvfvK-Vzm__knQPuGtE-83" value="F&lt;sub&gt;scale&lt;/sub&gt;(·,·)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="469" y="95" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
