@@ -19,7 +19,7 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-31" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;表现层&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="194.07" width="131.25" height="141.57" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-32" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;网关层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-32" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;网络层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="338.44000000000005" width="131.25" height="141.57" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-33" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数据层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.09624443862862851;horizontal=0;" vertex="1" parent="1">
@@ -58,11 +58,23 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-45" value="Restful接口调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="232.43" width="179" height="64.85" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-46" value="API网关&lt;div&gt;（Nginx、Spring Cloud Gateway）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="376.8" width="190" height="64.85" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-46" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="387.5" width="70" height="43.45" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-47" value="单点登录&lt;div&gt;（Oauth2.0、JWT）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="376.8" width="190" height="64.85" as="geometry" />
+          <mxGeometry x="1570" y="375" width="150" height="61.65" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-51" value="SLB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="385" width="80" height="48.45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-52" value="GateWay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="383.4" width="90" height="51.65" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-53" value="HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="376.6" width="120" height="58.45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-54" value="通用基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1915.96" y="249.93" width="89.36" height="29.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
