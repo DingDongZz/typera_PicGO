@@ -76,6 +76,12 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-54" value="通用基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1915.96" y="249.93" width="89.36" height="29.85" as="geometry" />
         </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-55" value="SLF4J" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-56" value="Log4j2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
