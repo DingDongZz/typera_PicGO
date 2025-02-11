@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="QETsFkyrZzGUOWjR-pDB">
-    <mxGraphModel dx="295" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,10 +52,10 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontSize=22;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1890.0100000000002" y="200.63" width="141.25" height="128.44" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="web端&lt;div&gt;（HTML5、CSS、Vue）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="web端&lt;div&gt;（HTML5、CSS、Vue）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1300" y="232.42" width="204" height="64.85" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-45" value="Restful接口调用" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-45" value="Restful接口调用" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1605" y="232.42000000000002" width="179" height="64.85" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-46" value="CDN&lt;div&gt;请求分发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
