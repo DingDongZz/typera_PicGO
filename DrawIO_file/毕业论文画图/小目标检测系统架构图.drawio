@@ -61,8 +61,8 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-46" value="API网关&lt;div&gt;（Nginx、Spring Cloud Gateway）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="376.8" width="190" height="64.85" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-47" value="API网关&lt;div&gt;（Nginx、Spring Cloud Gateway）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1464" y="370" width="190" height="64.85" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-47" value="单点登录&lt;div&gt;（Oauth2.0、JWT）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="376.8" width="190" height="64.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
