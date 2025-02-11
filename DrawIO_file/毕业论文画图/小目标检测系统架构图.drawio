@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="QETsFkyrZzGUOWjR-pDB">
-    <mxGraphModel dx="233" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="295" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,19 +16,19 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1230" y="500" width="620" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-31" value="&lt;font&gt;表现层&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-31" value="&lt;font&gt;&lt;span&gt;表现层&lt;/span&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;fontFamily=Times New Roman;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1030" y="194.07" width="131.25" height="141.57" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-32" value="&lt;span&gt;网络层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-32" value="&lt;span&gt;网络层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;fontFamily=Times New Roman;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1030" y="338.44000000000005" width="131.25" height="141.57" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-33" value="&lt;span&gt;数据层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08131034482758595;horizontal=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-33" value="&lt;span&gt;数据层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08131034482758595;horizontal=0;fontFamily=Times New Roman;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1061.07" y="982.68" width="80.88" height="133.21" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1235" y="1008.58" width="615" height="81.42" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-36" value="&lt;span&gt;逻辑层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.13468965517241205;horizontal=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-36" value="&lt;span&gt;逻辑层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.13468965517241205;horizontal=0;fontFamily=Times New Roman;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="846.12" y="676.79" width="499.01" height="145" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1240" y="890" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1890.0100000000002" y="200.63" width="141.25" height="128.44" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="web端&lt;div&gt;（HTML、HTML5、CSS、Vue）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
@@ -73,8 +73,8 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-53" value="HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1720" y="377.42999999999995" width="120" height="56.8" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-54" value="通用基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1915.96" y="249.93" width="89.36" height="29.85" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-54" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;通用基础层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1903.6200000000001" y="249.95" width="114.04" height="29.78" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-55" value="&lt;div&gt;Log4j2&lt;/div&gt;日志收集、解析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1260.5" y="570" width="120" height="60" as="geometry" />
