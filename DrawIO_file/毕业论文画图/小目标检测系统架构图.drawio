@@ -37,7 +37,7 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-38" value="目标检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="600" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-39" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="510" width="159" height="340" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-40" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-56" value="Log4j2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260.5" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-57" value="Kibana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="679.22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-58" value="Elasticsearch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
