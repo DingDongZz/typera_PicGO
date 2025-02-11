@@ -23,19 +23,19 @@
           <mxGeometry x="1030" y="338.44000000000005" width="131.25" height="141.57" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-33" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数据层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.09624443862862851;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="1047" y="989.87" width="97.24" height="138.13" as="geometry" />
+          <mxGeometry x="1059.06" y="977.81" width="73" height="138" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="1008.58" width="615" height="100.71" as="geometry" />
+          <mxGeometry x="1235" y="1008.58" width="615" height="81.42" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-36" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;逻辑层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.13468965517241205;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="846.12" y="676.79" width="499.01" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-37" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="510" width="320" height="70" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="510" width="320" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-38" value="目标检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="600" width="320" height="180" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="650" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="510" width="159" height="340" as="geometry" />
@@ -43,10 +43,10 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-40" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1890.01" y="344.22" width="139.99" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-41" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="800" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-42" value="云存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="890" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
@@ -76,17 +76,53 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-54" value="通用基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1915.96" y="249.93" width="89.36" height="29.85" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-55" value="SLF4J" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260.5" y="524.5" width="120" height="60" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-55" value="日志收集、解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-56" value="Log4j2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260.5" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-56" value="日志检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-57" value="Kibana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260.5" y="679.22" width="120" height="60" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-57" value="日志可视化分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-58" value="Elasticsearch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260.5" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-59" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-60" value="用户注册/登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-61" value="视频上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="660" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-62" value="视频解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1492.5" y="720" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-63" value="API实时检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="720" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-64" value="任务查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1503.75" y="807.5" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-65" value="任务管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1668.25" y="807.5" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-66" value="断点续传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380.5" y="897.5" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-67" value="断点下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="897.5" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-68" value="视频压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1677.5" y="897.5" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-69" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="1019.29" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-70" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="1019.29" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-71" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="1019.29" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
