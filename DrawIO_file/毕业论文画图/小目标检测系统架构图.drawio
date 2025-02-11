@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="QETsFkyrZzGUOWjR-pDB">
-    <mxGraphModel>
+    <mxGraphModel dx="177" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vgMis07-Jaw84nBqVfK9-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="189.29" width="1060" height="930.71" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="204.82" width="630" height="120.07" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="352.12" width="630" height="114.22" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="500" width="620" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-31" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;表现层&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="194.07" width="131.25" height="141.57" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-32" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;网关层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.08066680793953453;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="338.44000000000005" width="131.25" height="141.57" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-33" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数据层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.09624443862862851;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="989.87" width="97.24" height="138.13" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1008.58" width="615" height="100.71" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-36" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;逻辑层&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.13468965517241205;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="846.12" y="676.79" width="499.01" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-37" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="510" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-38" value="目标检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="600" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-39" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="510" width="159" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-40" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890.01" y="344.22" width="139.99" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-41" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="800" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-42" value="云存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="890" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1890.0100000000002" y="200.63" width="141.25" height="128.44" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="web端&lt;div&gt;（HTML、HTML5、CSS、Vue）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="232.43" width="179" height="64.85" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-45" value="Restful接口调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="232.43" width="179" height="64.85" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-46" value="API网关&lt;div&gt;（Nginx、Spring Cloud Gateway）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="376.8" width="190" height="64.85" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-47" value="API网关&lt;div&gt;（Nginx、Spring Cloud Gateway）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="370" width="190" height="64.85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
