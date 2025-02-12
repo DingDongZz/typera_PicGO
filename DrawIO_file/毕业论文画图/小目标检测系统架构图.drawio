@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="QETsFkyrZzGUOWjR-pDB">
-    <mxGraphModel dx="763" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-311" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
           <mxGeometry x="1505" y="1019.28" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-72" value="Binary Log&lt;div&gt;实时备份&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1677.5" y="1024.9099999999999" width="99.5" height="49.31" as="geometry" />
+          <mxGeometry x="1677.5" y="1024.6399999999999" width="99.5" height="49.31" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-73" value="&amp;nbsp;&lt;font&gt;Redis&lt;/font&gt;&lt;div&gt;缓存功能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1900" y="370" width="120" height="60" as="geometry" />
@@ -162,6 +162,21 @@
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-88" value="任务管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1460" y="797" width="110" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;width=6.363636363636363;endSize=4.699999999999999;endWidth=11.487603305785123;" edge="1" parent="1" source="vgMis07-Jaw84nBqVfK9-70" target="vgMis07-Jaw84nBqVfK9-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="1050" as="sourcePoint" />
+            <mxPoint x="1560" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-91" value="主从同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="1024" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgMis07-Jaw84nBqVfK9-93" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;width=6.363636363636363;endSize=4.699999999999999;endWidth=11.487603305785123;" edge="1" parent="1" source="vgMis07-Jaw84nBqVfK9-70" target="vgMis07-Jaw84nBqVfK9-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1515" y="1059" as="sourcePoint" />
+            <mxPoint x="1411" y="1059" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
