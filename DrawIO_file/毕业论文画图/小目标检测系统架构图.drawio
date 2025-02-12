@@ -52,7 +52,7 @@
         <mxCell id="vgMis07-Jaw84nBqVfK9-43" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;size=0.1353336995330948;horizontal=1;verticalAlign=middle;align=center;fontFamily=宋体;fontSize=22;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="1890.0100000000002" y="200.63" width="141.25" height="128.44" as="geometry" />
         </mxCell>
-        <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="web端&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（HTML5、CSS、Vue）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="vgMis07-Jaw84nBqVfK9-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;web&lt;/font&gt;端&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（HTML5、CSS、Vue）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1300" y="232.42" width="204" height="64.85" as="geometry" />
         </mxCell>
         <mxCell id="vgMis07-Jaw84nBqVfK9-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;Restful&lt;/font&gt;接口调用" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
