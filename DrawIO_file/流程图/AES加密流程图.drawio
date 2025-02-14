@@ -19,7 +19,7 @@
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-6" value="Ciphertext(11字节)&lt;br&gt;AuthenticationTag(16字节)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="265" width="161" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储IV+Secretkey+AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储IV+Ciphertext+AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665.75" y="370" width="189.5" height="40" as="geometry" />
         </mxCell>
       </root>
