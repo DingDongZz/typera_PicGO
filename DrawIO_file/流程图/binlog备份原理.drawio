@@ -31,8 +31,8 @@
         <mxCell id="5cQ4iYuFxSIM7iHGhTt3-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.settings" vertex="1" parent="5cQ4iYuFxSIM7iHGhTt3-13">
           <mxGeometry x="38" width="27" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5cQ4iYuFxSIM7iHGhTt3-21" value="I/O thread" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5cQ4iYuFxSIM7iHGhTt3-13">
-          <mxGeometry x="42" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="5cQ4iYuFxSIM7iHGhTt3-21" value="I/O thread" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;" vertex="1" parent="5cQ4iYuFxSIM7iHGhTt3-13">
+          <mxGeometry x="36" y="44" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5cQ4iYuFxSIM7iHGhTt3-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="590" y="200" width="65" height="61" as="geometry" />
