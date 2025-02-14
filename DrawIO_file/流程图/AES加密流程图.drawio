@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="Fequ8oQ68dAUHFL-Y74a">
-    <mxGraphModel dx="928" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,43 +12,43 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-2" value="PhoneNum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;PhoneNum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="270" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-3" target="ga1f1sWLpj-LMAlVq3eY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-3" value="获取管理员配置的SecretKey" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-3" value="获取管理员配置的&lt;font face=&quot;Times New Roman&quot;&gt;SecretKey&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="250" y="265" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-4" target="ga1f1sWLpj-LMAlVq3eY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-4" value="随机生成12位&lt;br&gt;字节向量IV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-4" value="随机生成&lt;font face=&quot;Times New Roman&quot;&gt;12&lt;/font&gt;位&lt;br&gt;字节向量&lt;font face=&quot;Times New Roman&quot;&gt;IV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="400" y="265" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-5" target="ga1f1sWLpj-LMAlVq3eY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-5" value="使用key+IV对PhoneNum进行加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-5" value="使用&lt;font face=&quot;Times New Roman&quot;&gt;key+IV&lt;/font&gt;对&lt;font face=&quot;Times New Roman&quot;&gt;PhoneNum&lt;/font&gt;进行加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="545.75" y="262.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-6" target="ga1f1sWLpj-LMAlVq3eY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-6" value="得到Ciphertext(11字节)&lt;br&gt;AuthenticationTag(16字节)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-6" value="得到&lt;font face=&quot;Times New Roman&quot;&gt;Ciphertext(11&lt;/font&gt;字节&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;AuthenticationTag&lt;/font&gt;(16字节)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="724.25" y="265" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-7" target="ga1f1sWLpj-LMAlVq3eY-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储IV+Ciphertext+AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储&lt;font face=&quot;Times New Roman&quot;&gt;IV+Ciphertext+AuthenticationTag&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="710" y="370.02" width="189.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-9" target="ga1f1sWLpj-LMAlVq3eY-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-9" value="分离IV、Ciphertext、AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-9" value="分离&lt;font face=&quot;Times New Roman&quot;&gt;IV、Ciphertext、AuthenticationTag&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="515.75" y="371.9" width="150" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-10" target="ga1f1sWLpj-LMAlVq3eY-2" edge="1">
@@ -64,13 +64,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-10" value="使用SecretKey和IV对Ciphertext进行解密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-10" value="使用&lt;font face=&quot;Times New Roman&quot;&gt;SecretKey&lt;/font&gt;和&lt;font face=&quot;Times New Roman&quot;&gt;IV&lt;/font&gt;对&lt;font face=&quot;Times New Roman&quot;&gt;Ciphertext&lt;/font&gt;进行解密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="19" y="372.02" width="150" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-11" target="ga1f1sWLpj-LMAlVq3eY-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-11" value="使用AuthenticationTag&lt;br&gt;验证完整性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-11" value="使用&lt;font face=&quot;Times New Roman&quot;&gt;AuthenticationTag&lt;/font&gt;&lt;br&gt;验证完整性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="331" y="371.9" width="150" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="ga1f1sWLpj-LMAlVq3eY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" parent="1" source="ga1f1sWLpj-LMAlVq3eY-26" target="ga1f1sWLpj-LMAlVq3eY-10" edge="1">
