@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-2" value="PhoneNum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-2" value="PhoneNum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-3" value="获取管理员配置的SecretKey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-3" value="获取管理员配置的SecretKey" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="265" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-4" value="随机生成12位字节向量IV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-4" value="随机生成12位字节向量IV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="265" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-5" value="使用key+IV对PhoneNum进行加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-5" value="使用key+IV对PhoneNum进行加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="545.75" y="262.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-6" value="Ciphertext(11字节)&lt;br&gt;AuthenticationTag(16字节)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-6" value="Ciphertext(11字节)&lt;br&gt;AuthenticationTag(16字节)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="710" y="265" width="161" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储IV+Ciphertext+AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-7" value="拼接字符串后存储IV+Ciphertext+AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="710" y="370.02" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-9" value="分离IV、Ciphertext、AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-9" value="分离IV、Ciphertext、AuthenticationTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="515.75" y="371.9" width="150" height="36.25" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-10" value="使用SecretKey和IV对Ciphertext进行解密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-10" value="使用SecretKey和IV对Ciphertext进行解密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="371.9" width="150" height="36.25" as="geometry" />
         </mxCell>
-        <mxCell id="ga1f1sWLpj-LMAlVq3eY-11" value="使用AuthenticationTag&lt;br&gt;验证完整性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ga1f1sWLpj-LMAlVq3eY-11" value="使用AuthenticationTag&lt;br&gt;验证完整性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="371.9" width="150" height="36.25" as="geometry" />
         </mxCell>
       </root>
