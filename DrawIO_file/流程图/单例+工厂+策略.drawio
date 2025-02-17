@@ -4,14 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lLpGI7_uiI3f87P-loz6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-1" target="lLpGI7_uiI3f87P-loz6-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lLpGI7_uiI3f87P-loz6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-27" target="lLpGI7_uiI3f87P-loz6-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="165" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lLpGI7_uiI3f87P-loz6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-1" target="lLpGI7_uiI3f87P-loz6-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lLpGI7_uiI3f87P-loz6-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lLpGI7_uiI3f87P-loz6-7">
+          <mxGeometry x="-0.5161" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lLpGI7_uiI3f87P-loz6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="150" width="80" height="30" as="geometry" />
+        <mxCell id="lLpGI7_uiI3f87P-loz6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-27" target="lLpGI7_uiI3f87P-loz6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLpGI7_uiI3f87P-loz6-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lLpGI7_uiI3f87P-loz6-19">
+          <mxGeometry x="-0.5451" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-2" target="lLpGI7_uiI3f87P-loz6-3">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +83,9 @@
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-13" target="lLpGI7_uiI3f87P-loz6-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLpGI7_uiI3f87P-loz6-27" value="是否设计&lt;div&gt;模式优化&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="120" width="85" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
