@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rI_YomH8ywqovsCWZQNp-4" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 15px; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;CoffeeTemplate&lt;/p&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="rI_YomH8ywqovsCWZQNp-4" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 15px; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;CoffeeTemplate&lt;/p&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="rI_YomH8ywqovsCWZQNp-5" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 15px; line-height: normal;&quot; class=&quot;p1&quot;&gt;boilWater();&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="rI_YomH8ywqovsCWZQNp-4">
@@ -19,7 +19,7 @@
         <mxCell id="rI_YomH8ywqovsCWZQNp-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=default;fontFamily=Times New Roman;" edge="1" parent="1" source="rI_YomH8ywqovsCWZQNp-8" target="rI_YomH8ywqovsCWZQNp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rI_YomH8ywqovsCWZQNp-8" value="Latte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="rI_YomH8ywqovsCWZQNp-8" value="Latte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="rI_YomH8ywqovsCWZQNp-9" value="boilWater();" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="rI_YomH8ywqovsCWZQNp-8">
@@ -36,7 +36,7 @@
             <mxPoint x="360" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rI_YomH8ywqovsCWZQNp-12" value="Americano" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="rI_YomH8ywqovsCWZQNp-12" value="Americano" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="rI_YomH8ywqovsCWZQNp-13" value="boilWater();" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="rI_YomH8ywqovsCWZQNp-12">
