@@ -59,13 +59,13 @@
           <mxGeometry x="450" y="320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-16" value="class A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="380" width="30" height="50" as="geometry" />
+          <mxGeometry x="420" y="390" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;class B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="380" width="30" height="50" as="geometry" />
+          <mxGeometry x="470" y="390" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;class C&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="30" height="50" as="geometry" />
+          <mxGeometry x="520" y="390" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-13" target="lLpGI7_uiI3f87P-loz6-14">
           <mxGeometry relative="1" as="geometry" />
