@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-29" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="374.5" y="60" width="50" height="20" as="geometry" />
+          <mxGeometry x="374.5" y="64" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-31" value="instance A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;arcSize=42;rotation=-90;horizontal=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="427" y="358" width="50" height="20" as="geometry" />
