@@ -54,13 +54,13 @@
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-20" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-20" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry x="10" y="10" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry x="110" y="10" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-22" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-22" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry x="60" y="10" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-23" value="&amp;nbsp;Message Queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
