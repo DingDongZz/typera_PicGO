@@ -55,20 +55,17 @@
         <mxCell id="v2yjPvonkrgVvbv5Wmdi-19" value="至今" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="645" y="326" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-21" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2yjPvonkrgVvbv5Wmdi-21" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="205" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-22" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2yjPvonkrgVvbv5Wmdi-22" value="Client/Server&lt;br&gt;&lt;div&gt;分布式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="285" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-23" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2yjPvonkrgVvbv5Wmdi-23" value="Internet&lt;div&gt;global&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="365" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-24" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2yjPvonkrgVvbv5Wmdi-24" value="Cloud&lt;div&gt;Iaas/Paas/Saas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="445" y="380" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-25" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2yjPvonkrgVvbv5Wmdi-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;startFill=0;" edge="1" parent="1" source="v2yjPvonkrgVvbv5Wmdi-8" target="v2yjPvonkrgVvbv5Wmdi-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,10 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v2yjPvonkrgVvbv5Wmdi-13" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="660" y="350" width="20" height="20" as="geometry" />
+          <mxGeometry x="631" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2yjPvonkrgVvbv5Wmdi-27" value="大型机&lt;div&gt;集中式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="385" width="125" height="20" as="geometry" />
+        <mxCell id="v2yjPvonkrgVvbv5Wmdi-27" value="微服务&lt;br&gt;&lt;div&gt;granular reusability&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="535" y="382.5" width="125" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
