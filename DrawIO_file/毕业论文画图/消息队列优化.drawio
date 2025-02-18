@@ -107,6 +107,12 @@
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-57" value="Mail / WeiXin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="85" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/ProjectTimesheet.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="214.58" width="35" height="33.54" as="geometry" />
+        </mxCell>
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-59" value="TimeOut" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
