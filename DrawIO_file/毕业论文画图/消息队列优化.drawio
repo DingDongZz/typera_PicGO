@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="G1BfPoWI4JrDpHa8mWjd">
-    <mxGraphModel dx="636" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="305" width="160" height="66" as="geometry" />
+          <mxGeometry x="381" y="305" width="160" height="66" as="geometry" />
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry width="160" height="60" as="geometry" />
@@ -58,19 +58,24 @@
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-22" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
           <mxGeometry x="60" y="10" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-23" value="消息队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
-          <mxGeometry x="16" y="36" width="60" height="30" as="geometry" />
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-23" value="&amp;nbsp;Message Queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dLHL3U_KZ0gCc7iix6O0-25">
+          <mxGeometry x="3" y="36" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="285" width="82" height="100" as="geometry" />
+          <mxGeometry x="590" y="340" width="82" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dLHL3U_KZ0gCc7iix6O0-21">
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHL3U_KZ0gCc7iix6O0-27" target="dLHL3U_KZ0gCc7iix6O0-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="330" as="targetPoint" />
+            <mxPoint x="600" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-35" value="consume" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dLHL3U_KZ0gCc7iix6O0-28">
+          <mxGeometry x="0.0258" relative="1" as="geometry">
+            <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-30" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="592" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="612" y="323" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-31" value="Web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="265.65" width="50" height="30" as="geometry" />
