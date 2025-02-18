@@ -40,10 +40,10 @@
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-16" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="110" y="287" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="dLHL3U_KZ0gCc7iix6O0-19">
+        <mxCell id="dLHL3U_KZ0gCc7iix6O0-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="320" as="sourcePoint" />
-            <mxPoint x="381" y="321" as="targetPoint" />
+            <mxPoint x="330" y="337" as="sourcePoint" />
+            <mxPoint x="453.6199999999999" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -97,17 +97,6 @@
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-31" value="Web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="255" y="275" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="dLHL3U_KZ0gCc7iix6O0-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392" y="350.06" as="sourcePoint" />
-            <mxPoint x="370" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dLHL3U_KZ0gCc7iix6O0-60" value="success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="dLHL3U_KZ0gCc7iix6O0-48">
-          <mxGeometry x="0.0194" y="2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dLHL3U_KZ0gCc7iix6O0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="dLHL3U_KZ0gCc7iix6O0-54" target="dLHL3U_KZ0gCc7iix6O0-8">
           <mxGeometry relative="1" as="geometry" />
