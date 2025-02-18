@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="3Fu6Cyum_ohwxmZfArsV">
-    <mxGraphModel dx="830" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,11 @@
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1" source="ql2Fjk31QtfPR9bqJzKU-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-100" value="身份认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ql2Fjk31QtfPR9bqJzKU-20">
+          <mxGeometry x="0.0919" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ql2Fjk31QtfPR9bqJzKU-11" target="ql2Fjk31QtfPR9bqJzKU-21">
@@ -128,10 +133,20 @@
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.264;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="ql2Fjk31QtfPR9bqJzKU-11" target="ql2Fjk31QtfPR9bqJzKU-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-102" value="服务注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ql2Fjk31QtfPR9bqJzKU-97">
+          <mxGeometry x="0.1106" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" target="ql2Fjk31QtfPR9bqJzKU-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632" y="-7" as="sourcePoint" />
             <mxPoint x="630" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-101" value="服务拉取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ql2Fjk31QtfPR9bqJzKU-99">
+          <mxGeometry x="-0.1622" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
