@@ -1,17 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="3Fu6Cyum_ohwxmZfArsV">
-    <mxGraphModel dx="954" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="2138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ql2Fjk31QtfPR9bqJzKU-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="117.63" y="190" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ql2Fjk31QtfPR9bqJzKU-5" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#314354;fillColor=#647687;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100.21" width="35.26" height="69.79" as="geometry" />
-        </mxCell>
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-9" value="Nginx" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="125" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="90" width="92.37" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="ql2Fjk31QtfPR9bqJzKU-12">
+          <mxGeometry width="92.37" height="61.330496276362716" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-5" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#314354;fillColor=#647687;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;fontColor=#ffffff;" vertex="1" parent="ql2Fjk31QtfPR9bqJzKU-12">
+          <mxGeometry x="29.900169000000005" y="78.85349521246636" width="30.893047124350705" height="61.14650478753364" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-200" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-15" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_security_center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="43.199999999999996" height="48.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-16" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.hsm_hardware_security_module;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="46.5" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ql2Fjk31QtfPR9bqJzKU-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
