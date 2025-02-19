@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="CLWAl7Uv6BVstPCbY0PA">
-    <mxGraphModel dx="1100" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1012" dy="122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1066,15 +1066,11 @@
             <mxPoint x="578" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgQiJ7kE1YWn5BwVjcKp-209" value="" style="endArrow=classicThin;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=0.6;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583.95" y="530.0109670987039" as="sourcePoint" />
-            <mxPoint x="608" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="588" y="530" />
-              <mxPoint x="588" y="560" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PgQiJ7kE1YWn5BwVjcKp-213" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="599" y="555.54" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PgQiJ7kE1YWn5BwVjcKp-214" value="" style="shape=mxgraph.sysml.x;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=0.8;direction=west;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="599.85" y="556.5" width="6" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
