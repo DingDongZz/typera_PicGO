@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-3" value="Hash值是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="339" y="206" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-7" target="FwiGgOwcliV5bMdkkI5m-8">
           <mxGeometry relative="1" as="geometry" />
