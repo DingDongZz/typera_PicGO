@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="hvfTpmLWFQ4rX_9oERoe">
-    <mxGraphModel dx="763" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="434" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,11 +16,35 @@
         <mxCell id="FwiGgOwcliV5bMdkkI5m-2" value="使用SHA-256计算视频Hash值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="150" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-3" target="FwiGgOwcliV5bMdkkI5m-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-3" target="FwiGgOwcliV5bMdkkI5m-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="233" />
+              <mxPoint x="530" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-3" value="Hash值是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="208" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FwiGgOwcliV5bMdkkI5m-7" value="存储记录表中添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="310" width="190" height="30" as="geometry" />
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-7" target="FwiGgOwcliV5bMdkkI5m-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-7" value="存储记录表中添加文件引用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-8" value="返回上传成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-11" value="对文件进行分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
