@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-34" value="Hash值&lt;div&gt;一致&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361.51" y="626" width="75" height="50" as="geometry" />
+          <mxGeometry x="361.51" y="630" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-39" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="690" width="80" height="30" as="geometry" />
