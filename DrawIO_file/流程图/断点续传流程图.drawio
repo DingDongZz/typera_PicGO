@@ -94,6 +94,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-21" target="FwiGgOwcliV5bMdkkI5m-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-21" value="是否最后&lt;div&gt;一片&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492.51" y="490" width="75" height="50" as="geometry" />
         </mxCell>
@@ -102,6 +105,15 @@
         </mxCell>
         <mxCell id="FwiGgOwcliV5bMdkkI5m-24" value="分片索引+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487.19" y="450" width="85.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwiGgOwcliV5bMdkkI5m-33" target="FwiGgOwcliV5bMdkkI5m-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-33" value="组合分片并SHA-256计算Hash值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.3" y="560" width="191.42" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FwiGgOwcliV5bMdkkI5m-34" value="Hash值是" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.51" y="604" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
