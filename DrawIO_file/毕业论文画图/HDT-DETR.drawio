@@ -1340,7 +1340,7 @@
         <mxCell id="QkApS1_qMZL0sF-ik54H-243" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fff2cc, #1a1a1a);gradientColor=none;strokeColor=#666666;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="QkApS1_qMZL0sF-ik54H-278">
           <mxGeometry width="66" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="QkApS1_qMZL0sF-ik54H-275" value="&lt;font&gt;&lt;b&gt;Conv1x1 s1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="QkApS1_qMZL0sF-ik54H-278">
+        <mxCell id="QkApS1_qMZL0sF-ik54H-275" value="&lt;font&gt;Conv1x1 s1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="QkApS1_qMZL0sF-ik54H-278">
           <mxGeometry x="6" y="1.9300000000000068" width="52.67" height="15.38" as="geometry" />
         </mxCell>
         <mxCell id="QkApS1_qMZL0sF-ik54H-276" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="QkApS1_qMZL0sF-ik54H-278">
