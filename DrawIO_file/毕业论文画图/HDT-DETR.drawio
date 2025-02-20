@@ -1319,7 +1319,7 @@
             <mxPoint x="98" y="44.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkApS1_qMZL0sF-ik54H-240" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QkApS1_qMZL0sF-ik54H-240" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="326.6" width="116" height="63.08" as="geometry" />
         </mxCell>
         <mxCell id="QkApS1_qMZL0sF-ik54H-244" value="$$\sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
@@ -1386,13 +1386,13 @@
           <mxGeometry x="1007.5" y="374" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="QkApS1_qMZL0sF-ik54H-334" value="Position Embedding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="323" width="121" height="30" as="geometry" />
+          <mxGeometry x="1016.5" y="327.24" width="102" height="23" as="geometry" />
         </mxCell>
         <mxCell id="QkApS1_qMZL0sF-ik54H-335" value="Image Feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="995" y="344" width="121" height="30" as="geometry" />
+          <mxGeometry x="1012.5" y="346.14" width="85" height="24" as="geometry" />
         </mxCell>
         <mxCell id="QkApS1_qMZL0sF-ik54H-336" value="Object Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="993" y="365.25" width="121" height="30" as="geometry" />
+          <mxGeometry x="1015.3299999999999" y="372.14" width="77" height="15.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
