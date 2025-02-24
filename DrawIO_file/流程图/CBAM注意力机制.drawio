@@ -204,6 +204,12 @@
         <mxCell id="SzQSZSZH6rv7SFYVgMxc-82" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;F&#39;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="497" y="389" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-83" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Refined Feature&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="563" y="375" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-84" value="Max Pool&lt;div&gt;Avg Pool&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="311.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
