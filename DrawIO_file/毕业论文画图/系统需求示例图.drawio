@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="hE-EVMoh24ZVPqNSy51q">
-    <mxGraphModel dx="928" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,9 +310,6 @@
             <mxPoint x="660" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9GubYoWh3bI8AQ0VfsK-77" value="&lt;b&gt;小目标检测系统&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="495" y="175.5" width="140" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="45utyjeI-DMy24zujTR1-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;dashPattern=1 2;" parent="1" source="f9GubYoWh3bI8AQ0VfsK-32" target="f9GubYoWh3bI8AQ0VfsK-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="527" y="620" as="sourcePoint" />
@@ -360,7 +357,7 @@
         <mxCell id="45utyjeI-DMy24zujTR1-28" value="&amp;lt;&amp;lt;generalization&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="358" y="202" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i9fMLP3nIs1oXg7ExSML-1" value="&amp;lt;&amp;lt;generalization&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="i9fMLP3nIs1oXg7ExSML-1" value="&amp;lt;&amp;lt;generalization&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="504.25" y="313" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
