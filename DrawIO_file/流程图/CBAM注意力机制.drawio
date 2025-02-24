@@ -184,10 +184,25 @@
           <mxGeometry x="332.5" y="322" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SzQSZSZH6rv7SFYVgMxc-76" value="Channel attention Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="114" y="227" width="202" height="30" as="geometry" />
+          <mxGeometry x="124" y="227" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SzQSZSZH6rv7SFYVgMxc-77" value="Spatial attention Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="429" y="227" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-78" value="Max Pool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="74" y="234" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-79" value="Avg Pool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="76" y="287.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-80" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="29" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-81" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;F&#39;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="256" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzQSZSZH6rv7SFYVgMxc-82" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;F&#39;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="497" y="389" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
