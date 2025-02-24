@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="HPxnn8EYBrVeJLNYMFsp">
-    <mxGraphModel dx="454" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,17 +33,17 @@
         <mxCell id="kAtiKYI1GSR-wgLTTllL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" edge="1" parent="1" source="kAtiKYI1GSR-wgLTTllL-3" target="kAtiKYI1GSR-wgLTTllL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAtiKYI1GSR-wgLTTllL-17" value="Acquisition&lt;div&gt;function&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="kAtiKYI1GSR-wgLTTllL-17" value="Acquisition&lt;div&gt;function&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="221.45" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="kAtiKYI1GSR-wgLTTllL-19" value="Unlabeled&lt;div&gt;data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="62" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kAtiKYI1GSR-wgLTTllL-20" value="Labeled&lt;div&gt;data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="472" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="472" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kAtiKYI1GSR-wgLTTllL-21" value="Expert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="354" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="354" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kAtiKYI1GSR-wgLTTllL-22" value="Select" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="285" y="260" width="60" height="30" as="geometry" />
@@ -53,6 +53,19 @@
         </mxCell>
         <mxCell id="kAtiKYI1GSR-wgLTTllL-24" value="Extract&lt;div&gt;feature&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="109" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kAtiKYI1GSR-wgLTTllL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=50;entryPerimeter=0;curved=1;fontFamily=Times New Roman;" edge="1" parent="1" source="kAtiKYI1GSR-wgLTTllL-2" target="kAtiKYI1GSR-wgLTTllL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="312" />
+              <mxPoint x="220" y="312" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAtiKYI1GSR-wgLTTllL-26" value="Train" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="kAtiKYI1GSR-wgLTTllL-25">
+          <mxGeometry x="-0.0402" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
