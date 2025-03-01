@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TtvNfw4dSMdTk0U6D3_O-105" value="$$S^{\text{high}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="652.24" y="120.1" width="43.64" height="17.77" as="geometry" />
+          <mxGeometry x="686.13" y="131.93" width="43.64" height="17.77" as="geometry" />
         </mxCell>
         <mxCell id="TtvNfw4dSMdTk0U6D3_O-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=0.8;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
