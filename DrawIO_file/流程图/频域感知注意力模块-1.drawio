@@ -268,9 +268,6 @@
             <mxPoint x="701.13" y="147.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtvNfw4dSMdTk0U6D3_O-108" value="$$S^{\text{high}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="690" y="138.27999999999997" width="43.64" height="17.77" as="geometry" />
-        </mxCell>
         <mxCell id="TtvNfw4dSMdTk0U6D3_O-122" value="a&lt;sub&gt;3&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=11;labelBackgroundColor=none;rounded=0;strokeColor=default;strokeWidth=0.8;fontColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="604.995653688311" y="165.99800669699465" as="geometry" />
         </mxCell>
