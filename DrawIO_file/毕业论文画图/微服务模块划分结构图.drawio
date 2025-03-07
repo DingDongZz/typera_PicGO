@@ -4,26 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-1" value="注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-1" value="注册中心" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-3" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-3" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-4" value="运维管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-4" value="运维管理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-5" value="文件管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-5" value="文件管理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="610" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-6" value="任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-6" value="任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-7" value="检测算法服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-7" value="检测算法服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="305" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbSjC7GCIxi7owk5sO3l-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="40" height="130" as="geometry" />
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-10" value="提供用户注册功能" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-11" value="提供用户注册功能" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
