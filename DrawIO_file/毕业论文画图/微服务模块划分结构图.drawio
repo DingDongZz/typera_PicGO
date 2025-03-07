@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="28ijJc5fzTOY-iimRhTZ">
-    <mxGraphModel>
+    <mxGraphModel dx="734" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-1" value="注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-3" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-4" value="运维管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-5" value="文件管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-6" value="任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbSjC7GCIxi7owk5sO3l-7" value="检测算法服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
