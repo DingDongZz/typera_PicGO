@@ -33,18 +33,12 @@
           <mxGeometry x="330" y="320" width="68" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0hp2Ma2FYjjdsOUvhA9y-19" value="视觉任务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="211" y="130" width="78" height="28" as="geometry" />
+          <mxGeometry x="211" y="180" width="78" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0hp2Ma2FYjjdsOUvhA9y-21" target="0hp2Ma2FYjjdsOUvhA9y-19">
+        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0hp2Ma2FYjjdsOUvhA9y-23" target="0hp2Ma2FYjjdsOUvhA9y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-21" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
-          <mxGeometry x="211" y="183" width="78" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="0hp2Ma2FYjjdsOUvhA9y-23" target="0hp2Ma2FYjjdsOUvhA9y-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-23" value="像素级融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+        <mxCell id="0hp2Ma2FYjjdsOUvhA9y-23" value="决策级融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0hp2Ma2FYjjdsOUvhA9y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0hp2Ma2FYjjdsOUvhA9y-33" target="0hp2Ma2FYjjdsOUvhA9y-14">
