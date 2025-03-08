@@ -27,8 +27,8 @@
         <mxCell id="TyisrgHagVBHa4376Sq0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TyisrgHagVBHa4376Sq0-2" target="lLpGI7_uiI3f87P-loz6-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TyisrgHagVBHa4376Sq0-2" value="获取工厂对象" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="350.37" y="153" width="98.25" height="20" as="geometry" />
+        <mxCell id="TyisrgHagVBHa4376Sq0-2" value="获取单例工厂对象" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="344.69" y="153" width="109.63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TyisrgHagVBHa4376Sq0-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="334" y="258" width="124.5" height="83" as="geometry" />
