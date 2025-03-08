@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="aGi-rofj-Qvo6CA43yql">
-    <mxGraphModel dx="734" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="298" dy="197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,12 +58,12 @@
         <mxCell id="hrZ-a2nCT1J37rPOq_Vz-13" value="输入注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="277" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hrZ-a2nCT1J37rPOq_Vz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hrZ-a2nCT1J37rPOq_Vz-13">
+        <mxCell id="hrZ-a2nCT1J37rPOq_Vz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrZ-a2nCT1J37rPOq_Vz-15" target="hrZ-a2nCT1J37rPOq_Vz-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="584.9805194805195" y="355.01298701298697" as="sourcePoint" />
             <mxPoint x="540" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="605" y="355" />
+              <mxPoint x="605" y="361" />
               <mxPoint x="605" y="260" />
               <mxPoint x="540" y="260" />
             </Array>
@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hrZ-a2nCT1J37rPOq_Vz-15" value="校验信息合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="327" width="90" height="60" as="geometry" />
+          <mxGeometry x="492" y="337" width="95" height="47" as="geometry" />
         </mxCell>
         <mxCell id="hrZ-a2nCT1J37rPOq_Vz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrZ-a2nCT1J37rPOq_Vz-21" target="hrZ-a2nCT1J37rPOq_Vz-10">
           <mxGeometry relative="1" as="geometry">
