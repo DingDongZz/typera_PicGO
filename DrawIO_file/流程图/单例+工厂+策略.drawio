@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="KLoRAD8Rr4eNPZWAdf4I">
-    <mxGraphModel dx="681" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         <mxCell id="TyisrgHagVBHa4376Sq0-2" value="获取单例工厂对象" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="344.69" y="153" width="109.63" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TyisrgHagVBHa4376Sq0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-15" target="TyisrgHagVBHa4376Sq0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="340.5" y="261" width="118" height="80" as="geometry" />
         </mxCell>
@@ -50,6 +53,15 @@
             <mxPoint x="399.5" y="309" as="sourcePoint" />
             <mxPoint x="429.75" y="309" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TyisrgHagVBHa4376Sq0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TyisrgHagVBHa4376Sq0-9" target="TyisrgHagVBHa4376Sq0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TyisrgHagVBHa4376Sq0-9" value="执行后续检测流程" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="344.69" y="364" width="109.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TyisrgHagVBHa4376Sq0-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="409" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
