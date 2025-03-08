@@ -10,8 +10,8 @@
         <mxCell id="lLpGI7_uiI3f87P-loz6-13" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="361.75" y="110" width="75.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lLpGI7_uiI3f87P-loz6-14" value="策略模式O(1)&lt;div&gt;复杂度获取实例&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="200" width="130" height="30" as="geometry" />
+        <mxCell id="lLpGI7_uiI3f87P-loz6-14" value="根据视频类型，使用策略模式&lt;font face=&quot;Times New Roman&quot;&gt;O&lt;/font&gt;(1)获取handler" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="321.75" y="200" width="155.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="lLpGI7_uiI3f87P-loz6-15" target="lLpGI7_uiI3f87P-loz6-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
