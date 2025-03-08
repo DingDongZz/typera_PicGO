@@ -13,7 +13,7 @@
         <mxCell id="TyisrgHagVBHa4376Sq0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lLpGI7_uiI3f87P-loz6-14" target="lLpGI7_uiI3f87P-loz6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lLpGI7_uiI3f87P-loz6-14" value="根据视频类型，使用策略模式&lt;font face=&quot;Times New Roman&quot;&gt;O&lt;/font&gt;(1)复杂度获取handler" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="lLpGI7_uiI3f87P-loz6-14" value="根据视频类型，使用策略模式&lt;font face=&quot;Times New Roman&quot;&gt;O&lt;/font&gt;(1)复杂度获取&lt;font face=&quot;Times New Roman&quot;&gt;handler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="321.75" y="200" width="155.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLpGI7_uiI3f87P-loz6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="lLpGI7_uiI3f87P-loz6-29" target="lLpGI7_uiI3f87P-loz6-13" edge="1">
@@ -48,7 +48,7 @@
         <mxCell id="lLpGI7_uiI3f87P-loz6-35" value="factory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="334" y="258" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TyisrgHagVBHa4376Sq0-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="TyisrgHagVBHa4376Sq0-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.5" y="309" as="sourcePoint" />
             <mxPoint x="429.75" y="309" as="targetPoint" />
