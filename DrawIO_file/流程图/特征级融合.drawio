@@ -10,7 +10,7 @@
         <mxCell id="8nX95-3Sj_Z75pdESY4I-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8nX95-3Sj_Z75pdESY4I-33" target="8nX95-3Sj_Z75pdESY4I-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nX95-3Sj_Z75pdESY4I-33" value="决策级融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+        <mxCell id="8nX95-3Sj_Z75pdESY4I-33" value="特征级融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
           <mxGeometry x="494" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nX95-3Sj_Z75pdESY4I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8nX95-3Sj_Z75pdESY4I-36" target="8nX95-3Sj_Z75pdESY4I-33">
