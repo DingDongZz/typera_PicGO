@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="uFKW13oD2mUaOlKedggl">
-    <mxGraphModel dx="502" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aUTcqc6jWZbXFdTLZVp--1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;gradientDirection=north;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="461.39" y="144.45" width="48.61" height="47.55" as="geometry" />
+          <mxGeometry x="100" y="264.45" width="48.61" height="47.55" as="geometry" />
         </mxCell>
         <mxCell id="aUTcqc6jWZbXFdTLZVp--2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="aUTcqc6jWZbXFdTLZVp--1">
           <mxGeometry width="48.61" height="12" as="geometry" />
@@ -98,6 +98,30 @@
           <mxGeometry x="37" width="12" height="12" as="geometry">
             <mxRectangle width="12" height="12" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--22" value="卷积层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.61" y="220" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--23" value="卷积层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.61" y="275.23" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--24" value="卷积层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.61" y="330" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--25" value="线性单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--26" value="线性单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="275.23" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--27" value="线性单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=42;" vertex="1" parent="1">
+          <mxGeometry x="396.0049967074784" y="250" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="aUTcqc6jWZbXFdTLZVp--31" value="" style="shape=mxgraph.sysml.x;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=0.8;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="252.5" width="11" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
