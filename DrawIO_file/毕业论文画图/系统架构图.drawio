@@ -97,7 +97,7 @@
           <mxGeometry x="62" y="117" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-79" value="&lt;font&gt;注册中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontStyle=0;fontSize=16;" parent="ql2Fjk31QtfPR9bqJzKU-67" vertex="1">
-          <mxGeometry x="62" y="7" width="60" height="30" as="geometry" />
+          <mxGeometry x="53" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ql2Fjk31QtfPR9bqJzKU-94" value="" style="group;fontFamily=宋体;fontStyle=0;fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="765" y="44.25" width="213" height="231.5" as="geometry" />
