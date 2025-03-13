@@ -1,18 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="Jhno6EoJuBNA1dP3zVc-">
-    <mxGraphModel dx="640" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontFamily=宋体;fontSize=13;" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="390" />
-              <mxPoint x="250" y="390" />
-              <mxPoint x="250" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -45,6 +36,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="390" />
+              <mxPoint x="251" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-1" value="基于深度学习的无人机航拍小目标检测算法研究" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="580" y="320" width="280" height="38" as="geometry" />
         </mxCell>
@@ -52,10 +51,10 @@
           <mxGeometry x="211" y="423.5" width="80" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-3" value="第二章&lt;div&gt;相关理论与方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="380" y="427.5" width="110" height="38" as="geometry" />
+          <mxGeometry x="380" y="427.25" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-4" value="第三章&lt;div&gt;增强算法小目标场景适配性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="610" y="427.25" width="160" height="38" as="geometry" />
+          <mxGeometry x="585" y="427.25" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-5" value="第四章&lt;div&gt;RGB-IR双模态融合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="800" y="423.5" width="190" height="38" as="geometry" />
@@ -63,8 +62,8 @@
         <mxCell id="KadRHXHtFz8DXNSLYVAC-6" value="第五章&lt;div&gt;&lt;span&gt;系统设计与实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1040" y="419.5" width="170" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-19" value="多模态图像融合理论" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="588" y="487.5" width="22" height="155" as="geometry" />
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-19" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;基于频域感知与双域注意力的小目标检测算法研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="545" y="494.25" width="40" height="199" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-30" value="" style="group;fontFamily=宋体;fontSize=13;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="189" y="515" width="124" height="100" as="geometry" />
@@ -145,8 +144,26 @@
         <mxCell id="KadRHXHtFz8DXNSLYVAC-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" parent="KadRHXHtFz8DXNSLYVAC-35" source="KadRHXHtFz8DXNSLYVAC-21" target="KadRHXHtFz8DXNSLYVAC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LNBZi4P7y57LkKZolX_N-2" value="多模态图像融合理论" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="740" y="492.5" width="22" height="155" as="geometry" />
+        <mxCell id="LNBZi4P7y57LkKZolX_N-2" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;频域感知特征自适应模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="170" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-3" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;双域自适应熵融合&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;注意力模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="605" y="575" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-4" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;分类计数模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="170" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-7" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;基于多模态协同感知的小目标检测算法研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="810" y="480" width="40" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-8" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;频域感知特征自适应模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="870" y="500" width="170" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-9" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;双域自适应熵融合注意力模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="860" y="580" width="190" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LNBZi4P7y57LkKZolX_N-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;分类计数模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="870" y="630" width="170" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
