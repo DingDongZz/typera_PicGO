@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="Jhno6EoJuBNA1dP3zVc-">
-    <mxGraphModel dx="663" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,72 +57,14 @@
         <mxCell id="KadRHXHtFz8DXNSLYVAC-4" value="第三章&lt;div&gt;&lt;span&gt;基于频域感知与双域注意力的小目标检测算法研究&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="560" y="419.5" width="210" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-5" value="第四章&lt;div&gt;&lt;span&gt;基于多模态协同感知的小目标检测算法研究&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-5" value="第四章&lt;div&gt;&lt;span&gt;多模态协同感知&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="800" y="423.5" width="190" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-6" value="第五章&lt;div&gt;&lt;span&gt;无人机航拍小目标检测系统设计与实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-6" value="第五章&lt;div&gt;&lt;span&gt;系统设计与实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1040" y="419.5" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-18" target="KadRHXHtFz8DXNSLYVAC-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="397" y="570" as="sourcePoint" />
-            <mxPoint x="421" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="415" y="570" />
-              <mxPoint x="415" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407.0000000000001" y="569.9999999999999" as="sourcePoint" />
-            <mxPoint x="431" y="549" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="415" y="570" />
-              <mxPoint x="415" y="549" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409" y="570" as="sourcePoint" />
-            <mxPoint x="431" y="589" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="415" y="570" />
-              <mxPoint x="415" y="589" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" target="KadRHXHtFz8DXNSLYVAC-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="570" as="sourcePoint" />
-            <mxPoint x="421" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="415" y="570" />
-              <mxPoint x="415" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-18" value="相关理论与方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="382" y="515" width="22" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-19" value="多模态图像融合理论" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="700" y="500" width="22" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-21" value="卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="426" y="500" width="112" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-22" value="注意力机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="426" y="539" width="112" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-23" value="RT-DETR模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="426" y="579" width="112" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-24" value="多模态图像融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="426" y="620" width="112" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KadRHXHtFz8DXNSLYVAC-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-21" target="KadRHXHtFz8DXNSLYVAC-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="560" y="495" width="22" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="189" y="515" width="124" height="100" as="geometry" />
@@ -141,6 +83,67 @@
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-16" value="论文主要工作" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-30">
           <mxGeometry x="102" width="22" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="357" y="500" width="156" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KadRHXHtFz8DXNSLYVAC-35" source="KadRHXHtFz8DXNSLYVAC-18" target="KadRHXHtFz8DXNSLYVAC-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="70" as="sourcePoint" />
+            <mxPoint x="39" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="33" y="70" />
+              <mxPoint x="33" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25.000000000000114" y="69.99999999999989" as="sourcePoint" />
+            <mxPoint x="49" y="49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="33" y="70" />
+              <mxPoint x="33" y="49" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27" y="70" as="sourcePoint" />
+            <mxPoint x="49" y="89" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="33" y="70" />
+              <mxPoint x="33" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="KadRHXHtFz8DXNSLYVAC-35" target="KadRHXHtFz8DXNSLYVAC-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="17" y="70" as="sourcePoint" />
+            <mxPoint x="39" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="33" y="70" />
+              <mxPoint x="33" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-18" value="相关理论与方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry y="15" width="22" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-21" value="卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry x="44" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-22" value="注意力机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry x="44" y="39" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-23" value="RT-DETR模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry x="44" y="79" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-24" value="多模态图像融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KadRHXHtFz8DXNSLYVAC-35">
+          <mxGeometry x="44" y="120" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="KadRHXHtFz8DXNSLYVAC-35" source="KadRHXHtFz8DXNSLYVAC-21" target="KadRHXHtFz8DXNSLYVAC-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
