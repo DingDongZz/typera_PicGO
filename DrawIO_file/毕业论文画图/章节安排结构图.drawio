@@ -154,16 +154,16 @@
           <mxGeometry x="600" y="640" width="170" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-7" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;基于多模态协同感知的小目标检测算法研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="810" y="480" width="40" height="199" as="geometry" />
+          <mxGeometry x="800" y="495.5" width="40" height="199" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-8" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;频域感知特征自适应模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="870" y="500" width="170" height="27.5" as="geometry" />
+          <mxGeometry x="860" y="500" width="170" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-9" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;双域自适应熵融合注意力模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="860" y="580" width="190" height="27.5" as="geometry" />
+          <mxGeometry x="850" y="571" width="190" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;分类计数模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="870" y="630" width="170" height="27.5" as="geometry" />
+          <mxGeometry x="860" y="640" width="170" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
