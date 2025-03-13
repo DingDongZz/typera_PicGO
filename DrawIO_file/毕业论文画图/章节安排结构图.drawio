@@ -1,66 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="Jhno6EoJuBNA1dP3zVc-">
-    <mxGraphModel dx="1092" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KadRHXHtFz8DXNSLYVAC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontFamily=宋体;fontSize=13;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="130" />
-              <mxPoint x="60" y="130" />
+              <mxPoint x="720" y="390" />
+              <mxPoint x="280" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="130" />
-              <mxPoint x="200" y="130" />
+              <mxPoint x="720" y="390" />
+              <mxPoint x="435" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="130" />
-              <mxPoint x="380" y="130" />
+              <mxPoint x="720" y="390" />
+              <mxPoint x="665" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="130" />
-              <mxPoint x="600" y="130" />
+              <mxPoint x="720" y="390" />
+              <mxPoint x="895" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-1" target="KadRHXHtFz8DXNSLYVAC-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="130" />
-              <mxPoint x="830" y="130" />
+              <mxPoint x="720" y="390" />
+              <mxPoint x="1125" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-1" value="基于深度学习的无人机航拍小目标检测算法研究" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="330" y="60" width="260" height="40" as="geometry" />
+          <mxGeometry x="580" y="320" width="280" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-2" value="第一章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="20" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="423.5" width="80" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-3" value="第二章&lt;div&gt;相关理论与方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="427.5" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-4" value="第三章&lt;div&gt;&lt;span&gt;基于频域感知与双域注意力的小目标检测算法研究&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="290" y="165" width="180" height="50" as="geometry" />
+          <mxGeometry x="560" y="419.5" width="210" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-5" value="第四章&lt;div&gt;&lt;span&gt;基于多模态协同感知的小目标检测算法研究&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="510" y="165" width="180" height="50" as="geometry" />
+          <mxGeometry x="800" y="423.5" width="190" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KadRHXHtFz8DXNSLYVAC-6" value="第五章&lt;div&gt;&lt;span&gt;无人机航拍小目标检测系统设计与实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="730" y="165" width="180" height="50" as="geometry" />
+          <mxGeometry x="1040" y="419.5" width="170" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-18" value="相关理论与方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="380" y="515" width="22" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-19" value="多模态图像融合理论" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="22" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-21" value="卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="426" y="500" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-22" value="注意力机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="426" y="539" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-23" value="RT-DETR模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="426" y="579" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-24" value="多模态图像融合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="426" y="620" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-21" target="KadRHXHtFz8DXNSLYVAC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-14" target="KadRHXHtFz8DXNSLYVAC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-14" value="背景及意义" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="218" y="520" width="22" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="KadRHXHtFz8DXNSLYVAC-15" target="KadRHXHtFz8DXNSLYVAC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-15" value="研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="269" y="520" width="22" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KadRHXHtFz8DXNSLYVAC-16" value="论文主要工作" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="22" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
