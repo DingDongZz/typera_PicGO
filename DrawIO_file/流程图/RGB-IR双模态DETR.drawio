@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="D1ASYQWjPl_UY_ePY0qW">
-    <mxGraphModel dx="371" dy="187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="773" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -723,6 +723,9 @@
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1169" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=45;" vertex="1" parent="WZT3L0y7xF80kX9-YHC5-1173">
           <mxGeometry x="2.1388613042038855" y="2.0710678118654187" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WZT3L0y7xF80kX9-YHC5-1174" value="DMDA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="285.98" y="679.88" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
