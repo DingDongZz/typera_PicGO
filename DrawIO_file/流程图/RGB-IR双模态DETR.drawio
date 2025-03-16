@@ -2027,6 +2027,9 @@
         <mxCell id="WZT3L0y7xF80kX9-YHC5-485" value="$$\mathbf{1} \times \mathbf{1} \times \mathbf{C}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="497.19000000000005" y="225.5" width="31" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="WZT3L0y7xF80kX9-YHC5-486" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="177.09" y="103.72" width="798.2" height="303.55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
