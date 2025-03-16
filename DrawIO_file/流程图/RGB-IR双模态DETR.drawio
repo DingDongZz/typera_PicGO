@@ -1099,6 +1099,9 @@
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1161" value="Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=7;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WZT3L0y7xF80kX9-YHC5-1163">
           <mxGeometry x="124.59726359924966" y="51.65714285714285" width="11.65783956747214" height="11.885714285714286" as="geometry" />
         </mxCell>
+        <mxCell id="WZT3L0y7xF80kX9-YHC5-1169" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=45;" vertex="1" parent="WZT3L0y7xF80kX9-YHC5-1163">
+          <mxGeometry x="91.5" y="142.86" width="10" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-896" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="WZT3L0y7xF80kX9-YHC5-1130">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335.8280015364546" y="711" as="sourcePoint" />
