@@ -208,6 +208,15 @@
         <mxCell id="FpNi_09DiMc6DCRJbx8O-98" value="Conv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;fontColor=default;labelBackgroundColor=none;rotation=-90;" vertex="1" parent="FpNi_09DiMc6DCRJbx8O-96">
           <mxGeometry x="-5" y="5" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-104" value="Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="367.5" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-105" value="K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="318.49" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-106" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="268" width="16" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
