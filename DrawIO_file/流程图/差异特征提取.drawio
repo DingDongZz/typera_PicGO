@@ -220,7 +220,7 @@
           <mxGeometry x="283" y="335.49" width="16" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FpNi_09DiMc6DCRJbx8O-106" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;$$V_{i}^{ir}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="282" y="286" width="16" height="20" as="geometry" />
+          <mxGeometry x="283" y="286" width="16" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
