@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="D1ASYQWjPl_UY_ePY0qW">
-    <mxGraphModel dx="517" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="904" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,7 +776,7 @@
           <mxGeometry x="727" y="627.2300000000001" width="32" height="23" as="geometry" />
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1237" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="827" y="660" width="148.84000000000003" height="23" as="geometry" />
+          <mxGeometry x="829" y="661.04" width="148.84000000000003" height="23" as="geometry" />
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1234" value="Intra-Scale Self-Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontStyle=1" vertex="1" parent="WZT3L0y7xF80kX9-YHC5-1237">
           <mxGeometry x="28.340000000000032" width="120.5" height="23" as="geometry" />
