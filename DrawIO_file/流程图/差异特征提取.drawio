@@ -222,11 +222,11 @@
         <mxCell id="FpNi_09DiMc6DCRJbx8O-106" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;$$V_{i}^{ir}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="283" y="286" width="16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-113" value="&lt;span style=&quot;border: 0px; margin: 0px; padding: 0px; color: rgb(25, 25, 25); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, 微软雅黑, 宋体, simsun, sans-serif; text-align: left; line-height: 70%;&quot;&gt;×&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=6;fontColor=default;labelBackgroundColor=none;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="295" width="14" height="10" as="geometry" />
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-113" value="&lt;span style=&quot;border: 0px; margin: 0px; padding: 0px; color: rgb(25, 25, 25); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, 微软雅黑, 宋体, simsun, sans-serif; text-align: left; line-height: 70%;&quot;&gt;×&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=8;fontColor=default;labelBackgroundColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="357.52" y="294" width="14" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FpNi_09DiMc6DCRJbx8O-115" value="&lt;span style=&quot;color: rgb(25, 25, 25); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, 微软雅黑, 宋体, simsun, sans-serif; text-align: left;&quot;&gt;-1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364.52" y="295" width="14" height="10" as="geometry" />
+          <mxGeometry x="363.52" y="294" width="14" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
