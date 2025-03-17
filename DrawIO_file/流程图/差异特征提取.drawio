@@ -1,28 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="xxBF5ol8PT6a56aNci-O">
-    <mxGraphModel dx="723" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FpNi_09DiMc6DCRJbx8O-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Times New Roman;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="197.96" y="256.25" width="424.52" height="157.5" as="geometry" />
         </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="FpNi_09DiMc6DCRJbx8O-2" target="FpNi_09DiMc6DCRJbx8O-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-88" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234" y="311" as="sourcePoint" />
+            <mxPoint x="260" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="242" y="311" />
+              <mxPoint x="242" y="285" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-2" value="V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="205" y="270" width="30" height="30" as="geometry" />
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-89" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="311" as="sourcePoint" />
+            <mxPoint x="260" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="242" y="311" />
+              <mxPoint x="242" y="335" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="FpNi_09DiMc6DCRJbx8O-5" target="FpNi_09DiMc6DCRJbx8O-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-5" value="K" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="205" y="320" width="30" height="30" as="geometry" />
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-5" value="$$S_{i}^{ir}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="202" y="296" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FpNi_09DiMc6DCRJbx8O-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="FpNi_09DiMc6DCRJbx8O-6" target="FpNi_09DiMc6DCRJbx8O-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpNi_09DiMc6DCRJbx8O-6" value="Q" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="FpNi_09DiMc6DCRJbx8O-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;$$S_{i}^{rgb}$$&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="205" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FpNi_09DiMc6DCRJbx8O-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="FpNi_09DiMc6DCRJbx8O-7" target="FpNi_09DiMc6DCRJbx8O-47">
