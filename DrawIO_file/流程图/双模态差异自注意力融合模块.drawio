@@ -232,10 +232,15 @@
           <mxGeometry x="416.75235294117647" y="526.888801256747" width="13.715105373496636" height="14.362822386668356" as="geometry" />
         </mxCell>
         <mxCell id="O-opSfDYdLaYPPiZJvzz-61" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="523.8111764705882" y="566.7663489889632" width="16.717563665963954" height="17.089505708206122" as="geometry" />
+          <mxGeometry x="523.8111764705882" y="565.7663489889632" width="16.717563665963954" height="17.089505708206122" as="geometry" />
         </mxCell>
         <mxCell id="O-opSfDYdLaYPPiZJvzz-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;rotation=-90;" vertex="1" parent="O-opSfDYdLaYPPiZJvzz-61">
           <mxGeometry width="16.615716130874727" height="16.615716130874727" as="geometry" />
+        </mxCell>
+        <mxCell id="O-opSfDYdLaYPPiZJvzz-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O-opSfDYdLaYPPiZJvzz-61" source="O-opSfDYdLaYPPiZJvzz-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="36.18882352941182" y="8.458873761379095" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="O-opSfDYdLaYPPiZJvzz-63" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-45;" vertex="1" parent="O-opSfDYdLaYPPiZJvzz-61">
           <mxGeometry x="2.3529411764705883" y="2.416821074679772" width="11.764705882352942" height="12.08410537339886" as="geometry" />
