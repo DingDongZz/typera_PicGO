@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="IwsUlqprveQ5Fm9F_jFR">
-    <mxGraphModel dx="748" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="620" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,8 +229,8 @@
         <mxCell id="uOTj7jRji0M_4ZIJ3NGh-72" value="&lt;span&gt;$$V_{i}^{rgb}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="283" y="284" width="16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5thz7oZhv2jhXGIIPTu--1" value="$$Q^{dfe}_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="332.5" width="60" height="30" as="geometry" />
+        <mxCell id="5thz7oZhv2jhXGIIPTu--1" value="$$Q^{cmff}_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="547" y="332.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
