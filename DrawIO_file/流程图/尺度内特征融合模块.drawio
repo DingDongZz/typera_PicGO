@@ -201,6 +201,9 @@
         <mxCell id="uKrTivx29mjVBT3hBDGl-172" value="$$S_i^{ccff}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="249" y="628" width="33" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="uKrTivx29mjVBT3hBDGl-173" value="$$S_i^{fuse}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="553" y="633.5" width="33" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
