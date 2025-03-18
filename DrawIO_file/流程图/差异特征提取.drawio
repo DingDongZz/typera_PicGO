@@ -214,7 +214,7 @@
           <mxGeometry x="404.49" y="327" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="FpNi_09DiMc6DCRJbx8O-54" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;container=0;rotation=45;" parent="1" vertex="1">
-          <mxGeometry x="406.49363636363637" y="323" width="12" height="12" as="geometry" />
+          <mxGeometry x="406.49363636363637" y="329" width="12" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
