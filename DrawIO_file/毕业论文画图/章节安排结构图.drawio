@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="Jhno6EoJuBNA1dP3zVc-">
-    <mxGraphModel dx="773" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,30 +182,30 @@
         <mxCell id="Dfz9FRkG0_b3JGqrG8k9-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="LNBZi4P7y57LkKZolX_N-7" target="LNBZi4P7y57LkKZolX_N-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="595" />
-              <mxPoint x="850" y="529" />
+              <mxPoint x="843" y="595" />
+              <mxPoint x="843" y="529" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Dfz9FRkG0_b3JGqrG8k9-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="LNBZi4P7y57LkKZolX_N-7" target="LNBZi4P7y57LkKZolX_N-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="595" />
-              <mxPoint x="850" y="653" />
+              <mxPoint x="843" y="595" />
+              <mxPoint x="843" y="653" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-7" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;基于多模态协同感知的小目标检测算法研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="800" y="497" width="40" height="196" as="geometry" />
+          <mxGeometry x="793" y="497" width="40" height="196" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-8" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;尺度内特征融合模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="870" y="582" width="150" height="26" as="geometry" />
+          <mxGeometry x="863" y="582" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;双模态差异自注意力融合模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="860" y="515" width="190" height="27.5" as="geometry" />
+          <mxGeometry x="853" y="515" width="190" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="LNBZi4P7y57LkKZolX_N-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;互信息一致性损失&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;fontColor=default;labelBackgroundColor=default;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="880" y="640" width="130" height="26" as="geometry" />
+          <mxGeometry x="873" y="640" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
