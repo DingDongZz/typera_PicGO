@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="第 1 页" id="hVpuzf0cs5-q520rvy3v">
-    <mxGraphModel dx="928" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="400" y="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="98" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-2" target="QpHExHwspOhf1drX-hT4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-2" value="上传视频" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="380" y="143" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="152" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-3" target="QpHExHwspOhf1drX-hT4-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -56,13 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-7" value="选择模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="334" y="353" width="80" height="30" as="geometry" />
+          <mxGeometry x="334" y="341" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-8" target="QpHExHwspOhf1drX-hT4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-8" value="开始执行" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="334" y="415" width="80" height="30" as="geometry" />
+          <mxGeometry x="334" y="397" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-10" target="QpHExHwspOhf1drX-hT4-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,28 +81,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-10" value="执行出错" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="329" y="479" width="90" height="60" as="geometry" />
+          <mxGeometry x="333.5" y="450" width="81" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-11" target="QpHExHwspOhf1drX-hT4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="387" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="374" y="620" />
-              <mxPoint x="440" y="620" />
+              <mxPoint x="374" y="580" />
+              <mxPoint x="440" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-11" value="保存结果&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并展示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="323.5" y="577" width="101" height="25" as="geometry" />
+          <mxGeometry x="323.5" y="531" width="101" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="400" y="651" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="604" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-24" target="QpHExHwspOhf1drX-hT4-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-24" value="保存错误信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="465" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="465" y="437" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-33" target="QpHExHwspOhf1drX-hT4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,13 +113,13 @@
         <mxCell id="QpHExHwspOhf1drX-hT4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="QpHExHwspOhf1drX-hT4-34" target="QpHExHwspOhf1drX-hT4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="620" />
-              <mxPoint x="440" y="620" />
+              <mxPoint x="505" y="580" />
+              <mxPoint x="440" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QpHExHwspOhf1drX-hT4-34" value="发出toast提示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="520" width="95" height="30" as="geometry" />
+          <mxGeometry x="457.5" y="492" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
