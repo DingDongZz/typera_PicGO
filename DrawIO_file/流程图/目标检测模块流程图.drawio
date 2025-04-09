@@ -237,8 +237,14 @@
         <mxCell id="VQWNfahwIAXLIbeWohpL-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="536.5" y="183" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VQWNfahwIAXLIbeWohpL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQWNfahwIAXLIbeWohpL-56" target="VQWNfahwIAXLIbeWohpL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VQWNfahwIAXLIbeWohpL-56" value="调用python的gRPC检测接口&lt;div&gt;并传输模型参数及视频地址&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="433.59000000000003" y="507" width="193.82" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VQWNfahwIAXLIbeWohpL-58" value="视频预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="478.37" y="578" width="104.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
