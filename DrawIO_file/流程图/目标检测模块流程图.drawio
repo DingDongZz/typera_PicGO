@@ -69,7 +69,7 @@
         <mxCell id="VQWNfahwIAXLIbeWohpL-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="VQWNfahwIAXLIbeWohpL-105">
           <mxGeometry x="66.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQWNfahwIAXLIbeWohpL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="VQWNfahwIAXLIbeWohpL-105" source="VQWNfahwIAXLIbeWohpL-56" target="VQWNfahwIAXLIbeWohpL-40">
+        <mxCell id="VQWNfahwIAXLIbeWohpL-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="VQWNfahwIAXLIbeWohpL-105" source="VQWNfahwIAXLIbeWohpL-56" target="VQWNfahwIAXLIbeWohpL-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106.3950000000001" y="290.5" as="targetPoint" />
           </mxGeometry>
