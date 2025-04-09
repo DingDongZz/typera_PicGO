@@ -238,8 +238,14 @@
         <mxCell id="VQWNfahwIAXLIbeWohpL-49" value="发出toast提示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="614" y="706" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQWNfahwIAXLIbeWohpL-50" value="选择检测类型并配置参数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="486.38" y="220" width="180.25" height="30" as="geometry" />
+        <mxCell id="VQWNfahwIAXLIbeWohpL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQWNfahwIAXLIbeWohpL-50" target="VQWNfahwIAXLIbeWohpL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQWNfahwIAXLIbeWohpL-50" value="选择检测模型并配置任务参数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="479.69" y="220" width="193.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQWNfahwIAXLIbeWohpL-52" value="上传视频" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="516.5" y="280" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
