@@ -770,7 +770,7 @@
           <mxGeometry x="829" y="663.04" width="148.84000000000003" height="23" as="geometry" />
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1234" value="&lt;font face=&quot;宋体&quot;&gt;尺度内自注意力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontStyle=1" parent="WZT3L0y7xF80kX9-YHC5-1237" vertex="1">
-          <mxGeometry x="28.340000000000032" width="120.5" height="23" as="geometry" />
+          <mxGeometry x="14.170000000000032" width="120.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-1235" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;labelBackgroundColor=default;fillColor=#d0cee2;strokeColor=#56517e;" parent="WZT3L0y7xF80kX9-YHC5-1237" vertex="1">
           <mxGeometry y="2.5" width="18" height="18" as="geometry" />
