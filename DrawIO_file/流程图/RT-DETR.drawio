@@ -59,7 +59,7 @@
         <mxCell id="aU0NooXUgrz6THZV2DXs-29" value="F5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-27" vertex="1">
           <mxGeometry x="7.088857545839211" width="41.52045133991537" height="14.178105858332023" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-75" value="&lt;font&gt;Uncertainty-minimal Query Selection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-75" value="&lt;font face=&quot;宋体&quot;&gt;最小不确定性查询选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
           <mxGeometry x="408.1156558533146" y="34.93890372231821" width="20.253878702397742" height="208.1143395633736" as="geometry" />
         </mxCell>
         <mxCell id="aU0NooXUgrz6THZV2DXs-76" value="" style="group;fontFamily=Times New Roman;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1" connectable="0">
