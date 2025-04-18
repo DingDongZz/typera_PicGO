@@ -268,14 +268,14 @@
             <mxPoint x="626" y="93.67999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nZi-JbzOEyZhrvatA6-u-79" value="depth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontColor=#4D9900;" parent="1" vertex="1">
-          <mxGeometry x="551" y="45" width="50" height="30" as="geometry" />
+        <mxCell id="nZi-JbzOEyZhrvatA6-u-79" value="长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontColor=#4D9900;" parent="1" vertex="1">
+          <mxGeometry x="556" y="45" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nZi-JbzOEyZhrvatA6-u-80" value="&lt;font style=&quot;&quot;&gt;height&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="62" width="50" height="30" as="geometry" />
+        <mxCell id="nZi-JbzOEyZhrvatA6-u-80" value="&lt;font style=&quot;&quot;&gt;高&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="605" y="62" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nZi-JbzOEyZhrvatA6-u-81" value="&lt;font style=&quot;&quot;&gt;&amp;nbsp;width&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="587.62" y="94" width="50" height="30" as="geometry" />
+        <mxCell id="nZi-JbzOEyZhrvatA6-u-81" value="&lt;font style=&quot;&quot;&gt;宽&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="592.62" y="94" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nZi-JbzOEyZhrvatA6-u-82" value="" style="endArrow=none;rounded=0;exitX=0.026;exitY=0.832;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#33FF33;labelBackgroundColor=default;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#4D9900;" parent="1" source="nZi-JbzOEyZhrvatA6-u-79" target="nZi-JbzOEyZhrvatA6-u-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
