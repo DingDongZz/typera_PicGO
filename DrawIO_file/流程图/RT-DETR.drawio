@@ -388,7 +388,7 @@
         <mxCell id="aU0NooXUgrz6THZV2DXs-331" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=宋体;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
           <mxGeometry x="579.7672778561354" y="242.04052143866812" width="12.152327221438648" height="12.152327221438648" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-332" value="位置嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-332" value="位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
           <mxGeometry x="575.3715232722146" y="194.68564787183914" width="103.29478138222848" height="23.292602481545472" as="geometry" />
         </mxCell>
         <mxCell id="aU0NooXUgrz6THZV2DXs-333" value="图像特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=12;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
@@ -639,7 +639,7 @@
         <mxCell id="A2_jo1InEYdsMqNVP8nq-8" value="高效混合编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
           <mxGeometry x="140.43026798307469" y="8.354955237945655" width="143.12403385049367" height="30.38165541071148" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-1" value="骨干网络" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontStyle=1;fontSize=15;" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;骨干网络&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontStyle=1;fontSize=15;" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1">
           <mxGeometry x="1.6911988716501125" y="148.11057012721852" width="91.14245416078984" height="50.636092351185795" as="geometry" />
         </mxCell>
       </root>
