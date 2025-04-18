@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="a4IMmuEFitL8YvzbBS3J">
-    <mxGraphModel dx="930" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="543" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,10 +346,10 @@
         <mxCell id="aU0NooXUgrz6THZV2DXs-319" value="&lt;font&gt;Conv1x1 s1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-317" vertex="1">
           <mxGeometry x="6.076163610719324" y="1.9545531647557788" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-320" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-317" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-320" value="&lt;font face=&quot;宋体&quot;&gt;批归一化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-317" vertex="1">
           <mxGeometry x="6.076163610719324" y="19.940493167896964" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-321" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-317" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-321" value="&lt;font face=&quot;Times New Roman&quot;&gt;SiLU&lt;/font&gt;激活函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=宋体;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-317" vertex="1">
           <mxGeometry x="6.248321579689662" y="37.84541542327627" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
         <mxCell id="aU0NooXUgrz6THZV2DXs-322" value="" style="group;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" vertex="1" connectable="0">
@@ -361,10 +361,10 @@
         <mxCell id="aU0NooXUgrz6THZV2DXs-324" value="&lt;font&gt;Conv3x3 s2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-322" vertex="1">
           <mxGeometry x="6.076163610719324" y="1.9545531647557788" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-325" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-322" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-325" value="&lt;font face=&quot;宋体&quot;&gt;批归一化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-322" vertex="1">
           <mxGeometry x="6.076163610719324" y="19.940493167896964" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
-        <mxCell id="aU0NooXUgrz6THZV2DXs-326" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-322" vertex="1">
+        <mxCell id="aU0NooXUgrz6THZV2DXs-326" value="&lt;font face=&quot;Times New Roman&quot;&gt;SiLU&lt;/font&gt;激活函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=宋体;fontStyle=1" parent="aU0NooXUgrz6THZV2DXs-322" vertex="1">
           <mxGeometry x="6.248321579689662" y="37.84541542327627" width="53.338589562764454" height="15.575662007224754" as="geometry" />
         </mxCell>
         <mxCell id="aU0NooXUgrz6THZV2DXs-327" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=4.497041420118343;endSize=1.188256880733945;width=2.4220183486238533;fillColor=#000000;fontSize=8;fontFamily=Times New Roman;fontStyle=1" parent="A2_jo1InEYdsMqNVP8nq-9" edge="1">
