@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="2wwFlPuuMfEYx9FGSFtc">
-    <mxGraphModel dx="1166" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="543" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             <mxPoint x="364.98764705882354" y="541.3897277048256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-opSfDYdLaYPPiZJvzz-7" value="Shared Backbone" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="O-opSfDYdLaYPPiZJvzz-7" value="&lt;font face=&quot;宋体&quot;&gt;共享骨干网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="249" y="577.64" width="153.29" height="21.75" as="geometry" />
         </mxCell>
         <mxCell id="O-opSfDYdLaYPPiZJvzz-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=0.8;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;width=1.878453038674033;endSize=1.3292817679558009;endWidth=2.1128781172735875;fillColor=#000000;" parent="1" edge="1">
