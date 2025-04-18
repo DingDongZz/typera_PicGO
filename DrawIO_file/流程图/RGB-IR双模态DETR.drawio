@@ -459,7 +459,7 @@
             <mxPoint x="404" y="562.7714285714286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZT3L0y7xF80kX9-YHC5-900" value="Shared Backbone" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="WZT3L0y7xF80kX9-YHC5-900" value="&lt;font face=&quot;宋体&quot;&gt;共享骨干网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="289.21999999999997" y="527.3" width="151.56" height="18" as="geometry" />
         </mxCell>
         <mxCell id="WZT3L0y7xF80kX9-YHC5-896" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="WZT3L0y7xF80kX9-YHC5-1130" edge="1">
